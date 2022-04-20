@@ -1,0 +1,12 @@
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\bin\Release\Pe.Stracon.SGC.Dominio.Core.dll
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\bin\Release\Pe.Stracon.SGC.Dominio.Core.pdb
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.csprojAssemblyReference.cache
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.csproj.CoreCompileInputs.cache
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.dll
+D:\Modulos\Fuentes\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.pdb
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\bin\Release\Pe.Stracon.SGC.Dominio.Core.dll
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\bin\Release\Pe.Stracon.SGC.Dominio.Core.pdb
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.csprojAssemblyReference.cache
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.csproj.CoreCompileInputs.cache
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.dll
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Core\obj\Release\Pe.Stracon.SGC.Dominio.Core.pdb

@@ -1,0 +1,17 @@
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\bin\Release\Pe.Stracon.Politicas.Presentacion.Recursos.dll
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\bin\Release\Pe.Stracon.Politicas.Presentacion.Recursos.pdb
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.csprojAssemblyReference.cache
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.Base.BuscadorTrabajador.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.Base.GenericoResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.Base.UsuarioAD.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.PlantillaNotificacionResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.SeccionParametroResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.ParametroResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.ValorParametroResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.TrabajadorResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.General.UnidadOperativaResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.Mensajes.MensajeResource.resources
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.csproj.GenerateResource.cache
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.csproj.CoreCompileInputs.cache
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.dll
+D:\GIAN\Dev\SGC\STRACON-SGC\Dev\Pe.Stracon.Politicas\Pe.Stracon.Politicas.Presentacion.Recursos\obj\Release\Pe.Stracon.Politicas.Presentacion.Recursos.pdb
