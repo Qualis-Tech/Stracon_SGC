@@ -1,0 +1,6 @@
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.XML
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.pdb
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.csproj.CoreCompileInputs.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.QueryModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.QueryModel.pdb

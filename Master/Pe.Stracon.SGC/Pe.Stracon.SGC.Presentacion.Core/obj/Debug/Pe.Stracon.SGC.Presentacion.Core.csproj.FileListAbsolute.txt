@@ -1,0 +1,2 @@
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Presentacion.Core\obj\Debug\Pe.Stracon.SGC.Presentacion.Core.csprojAssemblyReference.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Presentacion.Core\obj\Debug\Pe.Stracon.SGC.Presentacion.Core.csproj.CoreCompileInputs.cache

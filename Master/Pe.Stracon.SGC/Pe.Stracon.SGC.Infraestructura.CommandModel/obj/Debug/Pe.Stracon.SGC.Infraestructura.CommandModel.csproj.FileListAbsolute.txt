@@ -1,0 +1,14 @@
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.XML
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.pdb
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\EntityFramework.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\EntityFramework.xml
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\es\EntityFramework.resources.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.csprojAssemblyReference.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.csproj.CoreCompileInputs.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.csproj.CopyComplete
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Infraestructura.CommandModel\obj\Debug\Pe.Stracon.SGC.Infraestructura.CommandModel.pdb

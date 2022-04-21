@@ -1,0 +1,7 @@
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\bin\Debug\Pe.Stracon.SGC.Dominio.Model.XML
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\bin\Debug\Pe.Stracon.SGC.Dominio.Model.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\bin\Debug\Pe.Stracon.SGC.Dominio.Model.pdb
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\obj\Debug\Pe.Stracon.SGC.Dominio.Model.csprojAssemblyReference.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\obj\Debug\Pe.Stracon.SGC.Dominio.Model.csproj.CoreCompileInputs.cache
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\obj\Debug\Pe.Stracon.SGC.Dominio.Model.dll
+D:\GIAN\Dev\SGC\Jeiner\STRACON-SGC\Master\Pe.Stracon.SGC\Pe.Stracon.SGC.Dominio.Model\obj\Debug\Pe.Stracon.SGC.Dominio.Model.pdb
